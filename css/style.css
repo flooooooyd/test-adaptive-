@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (min-width: 768px) {
+  .hope__inner {
+    display: flex;
+  }
+}
